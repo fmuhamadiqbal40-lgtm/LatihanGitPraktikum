@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halaman HTML Sederhana</title>
+</head>
+<body>
+  <h1>Selamat Datang di Website Saya</h1>
+  <p>Ini adalah contoh halaman web sederhana menggunakan HTML.</p>
+  
+  <h2>Tentang Saya</h2>
+  <p>Nama saya Iqbal, saya sedang belajar membuat website dengan HTML.</p>
+  
+  <h3>Gambar Favorit Saya</h3>
+  <img src="https://via.placeholder.com/300" alt="Contoh Gambar" width="300">
+  
+  <br><br>
+  <a href="https://www.google.com" target="_blank">Kunjungi Google</a>
+  
+  <footer>
+    <p>&copy; 2025 Website Sederhana. Semua hak dilindungi.</p>
+  </footer>
+</body>
+</html>
